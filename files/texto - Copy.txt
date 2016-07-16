@@ -1,0 +1,5 @@
+Ricardo ; 12.532
+ Claudia ; 15.2
+ Beatriz ; 5.11
+ Sandra ; 1.66
+ 
