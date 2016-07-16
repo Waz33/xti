@@ -1,5 +1,5 @@
 package xti.colecao;
-
+//wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwEgit
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
